@@ -1,5 +1,5 @@
 # Google Apps Script Project: cPromisePolyfill
-This repo (cPromisePolyfill) was automatically updated on 28 April 2016 11:24:38 BST by GasGit
+This repo (cPromisePolyfill) was automatically updated on 27 July 2016 10:37:01 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cPromisePolyfill
